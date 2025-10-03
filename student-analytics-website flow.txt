@@ -1,0 +1,13 @@
+student-analytics-website/
+ ├── src/
+ │   └── main/
+ │       └── java/
+ │           └── com/example/web/
+ │               ├── StudentServlet.java
+ │               └── TrendServlet.java
+ ├── web/
+ │   ├── index.html
+ │   ├── about.html
+ │   ├── results.jsp
+ │   └── WEB-INF/
+ │       └── web.xml
